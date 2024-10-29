@@ -1,6 +1,6 @@
 ---
 title: Publicaciones
-image: /assets/cms/p1.png
+image: /assets/cms/imagenes-recursos_mesa-de-trabajo-1-copia-2.png
 description: "¿Qué puedo publicar? Herramienta que guía a los funcionarios sobre
   qué tipos de datos pueden ser publicados, con énfasis en la privacidad,
   confidencialidad y seguridad de la información. Publicación con propósito:
