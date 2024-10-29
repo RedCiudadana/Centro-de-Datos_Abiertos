@@ -1,6 +1,6 @@
 ---
 title: Desafíos de Innovación
-image: /assets/cms/td-50.png
+image: /assets/cms/datos-abeirtos-red-50.png
 description: Convocar desafíos y hackatones en los que ciudadanos, académicos y
   desarrolladores utilicen los datos abiertos para crear soluciones innovadoras
   a problemas públicos.
