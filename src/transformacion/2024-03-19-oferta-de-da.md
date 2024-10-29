@@ -1,6 +1,6 @@
 ---
 title: Oferta de DA
-image: /assets/cms/td-46.png
+image: /assets/cms/datos-abeirtos-red-46.png
 description: Promover y consolidar una lista de datos que las instituciones
   pueden y deben abrir, priorizando aquellos de mayor impacto social y
   económico.
