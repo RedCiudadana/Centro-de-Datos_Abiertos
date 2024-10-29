@@ -1,6 +1,6 @@
 ---
 title: Diagnóstico de DA
-image: /assets/cms/datos-abeirtos-red-48.png
+image: /assets/cms/datos-abeirtos-red-47.png
 description: Herramientas y consultorías que evalúan el estado actual de la
   apertura de datos dentro de las instituciones y diseñan planes de acción para
   optimizar la disponibilidad y accesibilidad de datos.
