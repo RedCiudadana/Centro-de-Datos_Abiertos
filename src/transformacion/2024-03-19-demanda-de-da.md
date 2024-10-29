@@ -1,6 +1,6 @@
 ---
 title: Demanda de DA
-image: /assets/cms/td-51.png
+image: /assets/cms/datos-abeirtos-red-51.png
 description: Realizar estudios y encuestas periódicas que identifiquen las
   demandas de la ciudadanía, sociedad civil y sector privado en relación con los
   datos que requieren de las instituciones públicas.
