@@ -1,6 +1,6 @@
 ---
 title: Formación de DA
-image: /assets/cms/td-49.png
+image: /assets/cms/datos-abeirtos-red-48.png
 description: Ofrecer cursos y talleres estructurados para garantizar que los
   funcionarios tengan las competencias necesarias para gestionar datos abiertos.
 date: 2024-03-19T15:07:22.895Z
