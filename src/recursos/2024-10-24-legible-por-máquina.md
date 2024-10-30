@@ -1,6 +1,6 @@
 ---
 title: Legible por Máquina
-image: /assets/cms/p1.png
+image: /assets/cms/imagenes-recursos_mesa-de-trabajo-1-copia-4.png
 description: "Datos abiertos + IA: Guía sobre cómo los datos abiertos pueden ser
   usados en conjunto con inteligencia artificial para crear valor público,
   mejorar la toma de decisiones y aumentar la eficiencia gubernamental."
