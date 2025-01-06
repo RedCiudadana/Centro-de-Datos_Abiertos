@@ -59,7 +59,7 @@ collections:
       - { label: "Image", name: "image", widget: "image" }
       - { name: "description", label: "Descripción" }
       - { name: "date", label: "Date", widget: "datetime" }
-      - { name: "body", label: "Body", widget: "markdown" }
+      - { name: "enlace", label: "Enlace" }
       - {
           name: "highlight",
           label: "Highlight",
