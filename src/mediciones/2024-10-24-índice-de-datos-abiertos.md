@@ -1,5 +1,5 @@
 ---
-title: Índice de Datos Abiertos
+title: Índice de Datos Abiertos 2022
 image: /assets/cms/p1.png
 description: Un índice que mide el nivel de apertura de datos de las
   instituciones gubernamentales y proporciona recomendaciones para mejorar la
