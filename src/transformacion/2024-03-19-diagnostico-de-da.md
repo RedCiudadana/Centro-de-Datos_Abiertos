@@ -26,4 +26,6 @@ El diagnóstico de datos abiertos puede realizarse a través de varias herramien
 
 Un diagnóstico efectivo proporciona a la institución un panorama claro sobre la situación de los datos abiertos, permitiendo el desarrollo de un plan de acción concreto que optimice la disponibilidad y accesibilidad de los datos. Este proceso también ayuda a identificar áreas de mejora en términos de infraestructura, recursos humanos y formación, orientando la inversión de recursos de manera estratégica para maximizar el impacto de la apertura de datos.
 
+![](/assets/cms/global-data-barometer-guatemala-charts-page.png)
+
 <!--EndFragment-->
